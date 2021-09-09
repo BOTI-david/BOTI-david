@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BOTI-david
 - 👀 I’m interested in R and stata coding
-- 🌱 I’m currently learning R 
+- 🌱 I’m currently learning R and Python
 -
 
 <!---
